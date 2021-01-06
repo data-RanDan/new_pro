@@ -13,7 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+    print("aaa")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 import numpy as np
 
-https://github.com/data-RanDan/new_pro.git
